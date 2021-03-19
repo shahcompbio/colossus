@@ -34,7 +34,7 @@ ipaddress==1.0.22
 ipython==5.8.0
 ipython-genutils==0.2.0
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jira==2.0.0
 jsonpointer==1.14
 jsonschema==2.6.0
